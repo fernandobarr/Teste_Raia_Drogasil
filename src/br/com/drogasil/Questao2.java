@@ -14,7 +14,7 @@ public class Questao2 {
 		do {
 			try {
 				
-				System.out.println("Digite o salario: \n");				
+				System.out.println("Digite o salario: + \n");				
 				Double sal = new Double(lerSalario.nextDouble());					
 				System.out.println("Digite o percentual de reajuste \n");				
 				Double perc = new Double(lerSalario.nextDouble());	
